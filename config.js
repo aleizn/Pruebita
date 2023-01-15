@@ -12,8 +12,8 @@ global.owner = [
   ['51917545642', '💫 Comprador 💫', true],
 ] 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['51914865141'] 
+global.prems = ['51917545642'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 𝐀𝐥𝐞★'
